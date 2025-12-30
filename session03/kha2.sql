@@ -18,7 +18,7 @@ VALUES ('SV01', 'Nguyen Van A', '2006-6-6', 'anguyen@gmail.com'),
 
 update Student set email = 'newanguyen@gmail.com' where student_id = 'SV01';
 update Student set date_of_birth = '2006-12-5' where student_id = 'SV02';
-delete from Student where student_id = 'SV03'
+delete from Student where student_id = 'SV03';
 
 select *
 from Student;

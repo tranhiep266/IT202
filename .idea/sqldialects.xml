@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../HN_KS24_CNTT1_TranQuangHiep/baitap.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/session03/gioi1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/session03/gioi2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/session03/kha1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/session03/kha2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/session03/tonghop.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/session03/xuatsac1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/session03/xuatsac2.sql" dialect="MySQL" />
+  </component>
+</project>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/../../HN_KS24_CNTT1_TranQuangHiep/baitap.sql" value="55d5c19c-aff6-4a16-9c6c-3e4adaff4f1d" />
     <file url="file://$PROJECT_DIR$/session03/gioi1.sql" value="55d5c19c-aff6-4a16-9c6c-3e4adaff4f1d" />
     <file url="file://$PROJECT_DIR$/session03/gioi2.sql" value="55d5c19c-aff6-4a16-9c6c-3e4adaff4f1d" />
     <file url="file://$PROJECT_DIR$/session03/kha1.sql" value="55d5c19c-aff6-4a16-9c6c-3e4adaff4f1d" />
